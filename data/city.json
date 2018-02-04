@@ -1,0 +1,488 @@
+[
+  {
+    "city": "New York",
+    "state": "New York"
+  },
+  {
+    "city": "Los Angeles",
+    "state": "California"
+  },
+  {
+    "city": "Chicago",
+    "state": "Illinois"
+  },
+  {
+    "city": "Houston",
+    "state": "Texas"
+  },
+  {
+    "city": "Philadelphia",
+    "state": "Pennsylvania"
+  },
+  {
+    "city": "Phoenix",
+    "state": "Arizona"
+  },
+  {
+    "city": "San Antonio",
+    "state": "Texas"
+  },
+  {
+    "city": "San Diego",
+    "state": "California"
+  },
+  {
+    "city": "Dallas",
+    "state": "Texas"
+  },
+  {
+    "city": "San Jose",
+    "state": "California"
+  },
+  {
+    "city": "Austin",
+    "state": "Texas"
+  },
+  {
+    "city": "Indianapolis",
+    "state": "Indiana"
+  },
+  {
+    "city": "Jacksonville",
+    "state": "Florida"
+  },
+  {
+    "city": "San Francisco",
+    "state": "California"
+  },
+  {
+    "city": "Columbus",
+    "state": "Ohio"
+  },
+  {
+    "city": "Charlotte",
+    "state": "North Carolina"
+  },
+  {
+    "city": "Detroit",
+    "state": "Michigan"
+  },
+  {
+    "city": "El Paso",
+    "state": "Texas"
+  },
+  {
+    "city": "Memphis",
+    "state": "Tennessee"
+  },
+  {
+    "city": "Seattle",
+    "state": "Washington"
+  },
+  {
+    "city": "Denver",
+    "state": "Colorado"
+  },
+  {
+    "city": "Washington",
+    "state": "District of Columbia"
+  },
+  {
+    "city": "Boston",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Baltimore",
+    "state": "Maryland"
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "Oklahoma"
+  },
+  {
+    "city": "Portland",
+    "state": "Oregon"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "Nevada"
+  },
+  {
+    "city": "Albuquerque",
+    "state": "New Mexico"
+  },
+  {
+    "city": "Tucson",
+    "state": "Arizona"
+  },
+  {
+    "city": "Long Beach",
+    "state": "California"
+  },
+  {
+    "city": "Kansas City",
+    "state": "Missouri"
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "Virginia"
+  },
+  {
+    "city": "Atlanta",
+    "state": "Georgia"
+  },
+  {
+    "city": "Miami",
+    "state": "Florida"
+  },
+  {
+    "city": "Oakland",
+    "state": "California"
+  },
+  {
+    "city": "Minneapolis",
+    "state": "Minnesota"
+  },
+  {
+    "city": "Tulsa",
+    "state": "Oklahoma"
+  },
+  {
+    "city": "Cleveland",
+    "state": "Ohio"
+  },
+  {
+    "city": "Wichita",
+    "state": "Kansas"
+  },
+  {
+    "city": "Arlington",
+    "state": "Texas"
+  },
+  {
+    "city": "New Orleans",
+    "state": "Louisiana"
+  },
+  {
+    "city": "Tampa",
+    "state": "Florida"
+  },
+  {
+    "city": "Honolulu",
+    "state": "Hawaii"
+  },
+  {
+    "city": "Aurora",
+    "state": "Colorado"
+  },
+  {
+    "city": "St. Louis",
+    "state": "Missouri"
+  },
+  {
+    "city": "Riverside",
+    "state": "California"
+  },
+  {
+    "city": "Sedona",
+    "state": "Arizona"
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "Pennsylvania"
+  },
+  {
+    "city": "Anchorage",
+    "state": "Alaska"
+  },
+
+  {
+    "city": "Cincinnati",
+    "state": "Ohio"
+  },
+  {
+    "city": "St. Paul",
+    "state": "Minnesota"
+  },
+  {
+    "city": "Toledo",
+    "state": "Ohio"
+  },
+  {
+    "city": "Greensboro",
+    "state": "North Carolina"
+  },
+  {
+    "city": "Newark",
+    "state": "New Jersey"
+  },
+  {
+    "city": "Plano",
+    "state": "Texas"
+  },
+  {
+    "city": "Henderson",
+    "state": "Nevada"
+  },
+  {
+    "city": "Buffalo",
+    "state": "New York"
+  },
+  {
+    "city": "Jersey City",
+    "state": "New Jersey"
+  },
+ 
+  {
+    "city": "Orlando",
+    "state": "Florida"
+  },
+  {
+    "city": "Fremont",
+    "state": "California"
+  },
+  {
+    "city": "Richmond",
+    "state": "Virginia"
+  },
+  {
+    "city": "Birmingham",
+    "state": "Alabama"
+  },
+  {
+    "city": "Tacoma",
+    "state": "Washington"
+  },
+  {
+    "city": "Columbus",
+    "state": "Georgia"
+  },
+  {
+    "city": "Montgomery",
+    "state": "Alabama"
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "Utah"
+  },
+  {
+    "city": "Tallahassee",
+    "state": "Florida"
+  },
+  {
+    "city": "Huntsville",
+    "state": "Alabama"
+  },
+  {
+    "city": "Grand Prairie",
+    "state": "Texas"
+  },
+  {
+    "city": "Knoxville",
+    "state": "Tennessee"
+  },
+  {
+    "city": "Jackson",
+    "state": "Mississippi"
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "Florida"
+  },
+  {
+    "city": "Tempe",
+    "state": "Arizona"
+  },
+
+  {
+    "city": "Kansas City",
+    "state": "Kansas"
+  },
+
+  {
+    "city": "Columbia",
+    "state": "South Carolina"
+  },
+  {
+    "city": "New Haven",
+    "state": "Connecticut"
+  },
+  {
+    "city": "Charleston",
+    "state": "South Carolina"
+  },
+  {
+    "city": "Belmont",
+    "state": "Massachusetts"
+  },
+
+  {
+    "city": "Miami Gardens",
+    "state": "Florida"
+  },
+  {
+    "city": "Manchester",
+    "state": "New Hampshire"
+  },
+
+  {
+    "city": "Richmond",
+    "state": "California"
+  },
+  {
+    "city": "Cambridge",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Palm Bay",
+    "state": "Florida"
+  },
+  {
+    "city": "Albany",
+    "state": "New York"
+  },
+  {
+    "city": "Quincy",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Sparks",
+    "state": "Nevada"
+  },
+  {
+    "city": "Federal Way",
+    "state": "Washington"
+  },
+  {
+    "city": "Carson",
+    "state": "California"
+  },
+  {
+    "city": "Santa Monica",
+    "state": "California"
+  },
+  {
+    "city": "Lynn",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Miami Beach",
+    "state": "Florida"
+  },
+  {
+    "city": "Newton",
+    "state": "Massachusetts"
+  },
+
+  {
+    "city": "Troy",
+    "state": "Michigan"
+  },
+  {
+    "city": "Redwood City",
+    "state": "California"
+  },
+  {
+    "city": "Edinburg",
+    "state": "Texas"
+  },
+  {
+    "city": "Cranston",
+    "state": "Rhode Island"
+  },
+  {
+    "city": "Parma",
+    "state": "Ohio"
+  },
+  {
+    "city": "Somerville",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Palm Coast",
+    "state": "Florida"
+  },
+  {
+    "city": "Medford",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Lawrence",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "St. Joseph",
+    "state": "Missouri"
+  },
+  {
+    "city": "St. George",
+    "state": "Utah"
+  },
+  {
+    "city": "Santa Fe",
+    "state": "New Mexico"
+  },
+  {
+    "city": "Jacksonville",
+    "state": "North Carolina"
+  },
+  {
+    "city": "Franklin",
+    "state": "Tennessee"
+  },
+  {
+    "city": "Jackson",
+    "state": "Tennessee"
+  },
+  {
+    "city": "Nashville",
+    "state": "Tennessee"
+  },
+  {
+    "city": "Janesville",
+    "state": "Wisconsin"
+  },
+  {
+    "city": "Hamilton",
+    "state": "Ohio"
+  },
+  {
+    "city": "Waltham",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Springfield",
+    "state": "Oregon"
+  },
+  {
+    "city": "Rogers",
+    "state": "Arkansas"
+  },
+  {
+    "city": "Medford",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "New Brunswick",
+    "state": "New Jersey"
+  },
+  {
+    "city": "Revere",
+    "state": "Massachusetts"
+  },{
+    "city": "Peabody",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Burlington",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Everett",
+    "state": "Massachusetts"
+  },
+  {
+    "city": "Cleveland",
+    "state": "Tennessee"
+  }
+]
